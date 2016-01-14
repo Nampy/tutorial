@@ -1,2 +1,6 @@
 My name is Alia
+<<<<<<< HEAD
 Favorite Color: red 
+=======
+Favorite Color: RED 
+>>>>>>> colour
